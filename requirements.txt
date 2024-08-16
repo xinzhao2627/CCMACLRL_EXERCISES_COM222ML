@@ -1,43 +1,43 @@
 asttokens==2.4.1
-comm @ file:///croot/comm_1709322850197/work
+comm 
 contourpy==1.2.1
 cycler==0.12.1
-debugpy @ file:///work/perseverance-python-buildout/croot/debugpy_1698884710808/work
-decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
-et-xmlfile @ file:///work/perseverance-python-buildout/croot/et_xmlfile_1698868193149/work
+debugpy 
+decorator 
+et-xmlfile 
 executing==2.0.1
 fonttools==4.53.1
-ipykernel @ file:///croot/ipykernel_1705933831282/work
-ipython @ file:///croot/ipython_1718287989724/work
-jedi @ file:///croot/jedi_1721058342488/work
+ipykernel 
+ipython 
+jedi 
 jupyter_client==8.6.2
-jupyter_core @ file:///croot/jupyter_core_1718818295206/work
+jupyter_core 
 kiwisolver==1.4.5
 matplotlib==3.9.1.post1
-matplotlib-inline @ file:///work/perseverance-python-buildout/croot/matplotlib-inline_1698864771271/work
-nest-asyncio @ file:///croot/nest-asyncio_1708532673751/work
+matplotlib-inline 
+nest-asyncio 
 numpy==2.0.1
-openpyxl @ file:///croot/openpyxl_1721752957391/work
-packaging @ file:///croot/packaging_1720101850331/work
+openpyxl 
+packaging 
 pandas==2.2.2
-parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+parso 
 pexpect==4.9.0
 pillow==10.4.0
 platformdirs==4.2.2
 prompt_toolkit==3.0.47
 psutil==6.0.0
-ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+ptyprocess 
 pure_eval==0.2.3
 Pygments==2.18.0
 pyparsing==3.1.2
-python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+python-dateutil 
 pytz==2024.1
-pyzmq @ file:///croot/pyzmq_1705605076900/work
+pyzmq 
 setuptools==72.1.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-tornado @ file:///croot/tornado_1718740109488/work
-traitlets @ file:///croot/traitlets_1718227057033/work
+six 
+stack-data 
+tornado 
+traitlets 
 tzdata==2024.1
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+wcwidth 
 wheel==0.43.0
